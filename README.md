@@ -4,4 +4,4 @@ Hi everyone! My name is Kevin Boyle and I am currently in my last semester at Re
 
 ## My Repositories
 
-Most of the repositories on my GitHub are forks of other repositories used for school, but I have a personal project [Resumake](https://github.com/kevinb5617/ResuMake) which I started in this last semester of school, with the goal of making a personal website.
+Most of the repositories on my GitHub are forks of other repositories used for school, but I have a personal project [ResuMake](https://github.com/kevinb5617/ResuMake) which I started in this last semester of school, with the goal of making a personal website.
